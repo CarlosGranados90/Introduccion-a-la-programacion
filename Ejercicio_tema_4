@@ -1,0 +1,71 @@
+public class Ejercicio_tema_4 {
+
+/*
+// Comprobación número positivo / negativo / igual a 0
+    public static void main( String[] args ) {
+
+        int x = 2;
+
+        if ( x > 0 ) {
+            System.out.println( "x es un número positivo" );
+        }
+        else if ( x < 0 ){
+            System.out.println( "x es un número negativo" );
+        }
+        else {
+            System.out.println( "x es igual a 0" );
+        }
+    }
+
+
+ //  Bucle While
+    public static void main(String[] args) {
+        int contador = 2;
+
+        while ((contador > 0)) {
+            System.out.println(contador);
+            contador = contador + 1;
+
+        }
+
+    }
+
+
+//  Bucle Do While
+    public static void main(String[] args) {
+        int contador = 2;
+
+        do {
+            System.out.println(contador);
+            contador = contador -2;
+        } while (contador > 0);
+    }
+
+
+// Bucle For
+    public static void main(String[] args){
+
+        int i;
+
+        for (i = 0; i <= 3; i++) {
+            System.out.println(i);
+        }
+    }
+
+
+
+// Condicional Switch
+    public static void main(String[] args){
+
+        var estacion = "Ducha";
+
+        switch (estacion) {
+            case "Primavera": System.out.println("La estación es " + estacion); break;
+            case "Verano": System.out.println("La estación es " + estacion); break;
+            case "Otoño": System.out.println("La estación es " + estacion); break;
+            case "Invierno": System.out.println("La estación es " + estacion); break;
+            default: System.out.println(estacion + " no es una estación");
+        }
+    }
+ */
+}
